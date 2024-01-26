@@ -1,0 +1,4 @@
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.AssemblyInfoInputs.cache
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.AssemblyInfo.cs
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.csproj.CoreCompileInputs.cache

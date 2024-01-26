@@ -1,0 +1,14 @@
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/bin/Debug/net8.0/RetalCarManagement
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/bin/Debug/net8.0/RetalCarManagement.deps.json
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/bin/Debug/net8.0/RetalCarManagement.runtimeconfig.json
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/bin/Debug/net8.0/RetalCarManagement.dll
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/bin/Debug/net8.0/RetalCarManagement.pdb
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.AssemblyInfoInputs.cache
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.AssemblyInfo.cs
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.csproj.CoreCompileInputs.cache
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.dll
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/refint/RetalCarManagement.dll
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.pdb
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/RetalCarManagement.genruntimeconfig.cache
+/Users/levantrungtinhgmail.com/Desktop/dotnet/RetalCarManagement/RetalCarManagement/obj/Debug/net8.0/ref/RetalCarManagement.dll
